@@ -87,10 +87,11 @@ Functionalities
 
 ### Getting Started
 
-To begin using HealthFirst, follow these simple steps:
-
-1. **Download the HealthFirst app** from the [App Store](#) or [Google Play Store](#).
-2. **Install the app** on your mobile device and launch it.
+Upon accessing the HealthFirst website and entering the web dashboard, you'll find clear links facilitating navigation to different functionalities :
+1. Interacting with chatbots for personalized assistance.
+2. Accessing real-time disease predictions based on medical images.
+3. Conveniently scheduling appointments with healthcare professionals.
+4. Providing feedback by rating past appointments.
 
 ### Uploading Medical Images
 
