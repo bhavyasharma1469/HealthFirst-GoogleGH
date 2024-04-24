@@ -87,14 +87,18 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 
 
 #### 6. Knee Disease Prediction
-    ![image](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/94129f3b-6b82-4f51-a43f-7f2f04d69f4b)
+    ![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/c0d456b7-7eed-430d-8e29-037e2ce8c417)
+    
+    ![knee2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/ae2a7112-236e-4b05-b14c-aa06f8b7c488)
 
-    ![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d06dec79-d0c9-4f4a-9a3c-d0e35dbecf27)
+
 
 #### 7. BayMac Chatbot
-    ![baymac1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/54290f08-6589-4e8f-90df-579b63106c6e)
+    ![baymac1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/70d6d538-3ebe-4017-9a05-ffd3da6abf83)
+    
+    ![baymac2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d445a2ee-8537-4ac1-bf57-7012b070e632)
 
-    ![baymac2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/f793531a-9439-42be-9bef-be58a901d164)
+
 
 
 #### 8. Sally Chatbot
@@ -143,4 +147,5 @@ BayMac and Sally are here to assist you with any health inquiries or concerns:
 
 - Developed by Bhavya Sharma
 - BayMac and Sally chatbot technology powered by Google AI Studio
+- Prediction models powered by Google Teachable Machine
 
