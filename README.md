@@ -87,11 +87,8 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 
 
 #### 6. Knee Disease Prediction
-
-![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/9380f13b-7ebd-4e02-bc9c-08b8402cf80c)
-
-    
 ![knee2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/90fd64cb-dd1e-45ca-9236-89a6cac2445e)
+![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/9380f13b-7ebd-4e02-bc9c-08b8402cf80c)
 
 
 
