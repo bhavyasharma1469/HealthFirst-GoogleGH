@@ -81,29 +81,35 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 ![chest2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/81229aa8-37cb-41d6-94a8-a35fb7462d0e)
 
 #### 5. Heart Disease Prediction
-    <img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/80f3cfd9-44fe-4144-ae55-23809c844c26" alt="heart1"/>
-
+   ![heart1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/f37b91f6-02c6-4fc4-b559-b896a300a75f)
 
    ![heart2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/021234ab-07af-4492-b849-a23e85fb46ee)
 
 
 #### 6. Knee Disease Prediction
-    ![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/c0d456b7-7eed-430d-8e29-037e2ce8c417)
+
+![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/9380f13b-7ebd-4e02-bc9c-08b8402cf80c)
+
     
-    ![knee2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/ae2a7112-236e-4b05-b14c-aa06f8b7c488)
+![knee2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/90fd64cb-dd1e-45ca-9236-89a6cac2445e)
 
 
 
-#### 7. BayMac Chatbot
-    ![baymac1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/70d6d538-3ebe-4017-9a05-ffd3da6abf83)
-    
-    ![baymac2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d445a2ee-8537-4ac1-bf57-7012b070e632)
-
-
-
-
-#### 8. Sally Chatbot
+#### 7. Sally Chatbot
 ![sally](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/47f2ee66-7b52-40d2-9c62-eda993a2cc20)
+
+#### 8. BayMac Chatbot
+
+![baymac1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/38faea29-7672-4b68-92a9-908c3c6f877d)
+
+
+![baymac2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/f739dd05-4d47-4dec-b6fd-8cd3d90e646b)
+
+
+
+
+
+
 
 ## Usage
 
