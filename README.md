@@ -5,10 +5,8 @@
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Screenshots](#screenshots)
-4. [Installation and Setup](#installation-and-setup)
-5. [Usage](#usage)
-6. [Credits](#credits)
-7. [License](#license)
+4. [Usage](#usage)
+5. [Credits](#credits)
 
 ## Introduction
 
@@ -31,12 +29,6 @@ Introducing HealthFirst, a revolutionary approach to healthcare that combines cu
 [![Brain Disease Prediction](/path/to/sally-screenshot.png)](https://example.com)
 [![Heart Disease Prediction](/path/to/sally-screenshot.png)](https://example.com)
 [![Knee Disease Prediction](/path/to/sally-screenshot.png)](https://example.com)
-
-## Installation and Setup
-
-[Instructions on how to install and set up the HealthFirst app]
-
-## Usage
 
 ## Usage
 
@@ -88,6 +80,3 @@ BayMac and Sally are here to assist you with any health inquiries or concerns:
 - Developed by Bhavya Sharma
 - BayMac and Sally chatbot technology powered by Google AI Studio
 
-## License
-
-[Choose a suitable license for your project]
