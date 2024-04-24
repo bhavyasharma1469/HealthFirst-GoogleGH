@@ -16,8 +16,9 @@ Introducing HealthFirst, a revolutionary approach to healthcare that combines cu
 
 - Instant predictions based on uploaded medical images
 - Online appointment scheduling
+- Rating the previous appointments
 - Chatbot assistance for health inquiries and sexual hygiene concerns
-- User-friendly interface designed for busy individuals
+- User-friendly and intuitive interface designed for busy and new individuals
 - Backed by real-world data
 
 ## Screenshots
