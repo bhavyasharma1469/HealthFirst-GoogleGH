@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sally</title>
+    <style>
+        body {
+            font-family: Lora, sans-serif;
+            background-color: #f0fafb; /* Updated background color */
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .wrapper {
+            background-image: url('bg.jpg');
+            background-size: cover;
+            background-position: center;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            background-color:rgba(255, 255, 255, 0.2);
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 50px;
+            display: flex; /* Set container to flex display */
+            flex-direction: column; /* Align children vertically */
+        }
+
+        .message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 6px;
+        }
+
+        .user {
+            background-color: #d5eeee; /* Updated user message color */
+            text-align: right;
+        }
+
+        .model {
+            background-color: #0cbbb4;
+            color: #fff;
+        }
+
+        textarea {
+            width: calc(100% - 40px); /* Adjust width to fit within container */
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            width: calc(100% - 40px); /* Adjust width to fit within container */
+            padding: 10px 20px;
+            border: none;
+            background-color: #0cbbb4;
+            color: #fff;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #07918a; /* Darker shade on hover */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="container">
+            <h1 style="color: #0cbbb4; text-align: center;">Sally: Your friendly sexual healthcare assistant!</h1>
+            <div id="chat-box"></div>
+            <textarea id="user-input" rows="3" placeholder="Type your message here..."></textarea>
+            <button id="send-btn">Send</button>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const chatBox = document.getElementById("chat-box");
+            const userInput = document.getElementById("user-input");
+            const sendBtn = document.getElementById("send-btn");
+
+            sendBtn.addEventListener("click", function () {
+                sendMessage(userInput.value);
+                userInput.value = "";
+            });
+
+            function sendMessage(message) {
+                const xhr = new XMLHttpRequest();
+                xhr.open("POST", "/chat", true);
+                xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                xhr.onreadystatechange = function () {
+                    if (xhr.readyState === XMLHttpRequest.DONE) {
+                        if (xhr.status === 200) {
+                            addMessage(message, "user");
+                            addMessage(xhr.responseText, "model");
+                        }
+                    }
+                };
+                xhr.send("user_input=" + message);
+            }
+
+            function addMessage(message, role) {
+                const messageDiv = document.createElement("div");
+                messageDiv.textContent = message;
+                messageDiv.classList.add("message", role);
+                chatBox.appendChild(messageDiv);
+                chatBox.scrollTop = chatBox.scrollHeight;
+            }
+        });
+    </script>
+</body>
+
+</html>

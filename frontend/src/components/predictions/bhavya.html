@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>X-ray Disease Prediction</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #bde8e5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .container {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        max-width: 400px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .heading {
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+    #label-container {
+        margin-top: 20px;
+    }
+
+    #imageUpload {
+        margin-top: 20px;
+    }
+
+    button {
+        margin-top: 20px;
+        width: 100%;
+        padding: 10px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    #uploadedImage {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="heading">knee Disease Prediction</div>
+    <img src="" id="uploadedImage" alt="Uploaded Image" style="display: none;">
+    <div id="label-container"></div>
+    <input type="file" id="imageUpload" accept="image/*" onchange="displayImage(event)">
+    <button type="button" onclick="predictFromImage()">Predict</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+<script type="text/javascript">
+    // the link to your model provided by Teachable Machine export panel
+    const URL = "https://teachablemachine.withgoogle.com/models/nVqaXy809/";
+
+    let model, labelContainer, maxPredictions, uploadedImage;
+
+    // Load the image model
+    async function init() {
+        const modelURL = URL + "model.json";
+        const metadataURL = URL + "metadata.json";
+
+        // load the model and metadata
+        model = await tmImage.load(modelURL, metadataURL);
+        maxPredictions = model.getTotalClasses();
+
+        labelContainer = document.getElementById("label-container");
+        uploadedImage = document.getElementById("uploadedImage");
+
+        for (let i = 0; i < maxPredictions; i++) {
+            labelContainer.appendChild(document.createElement("div"));
+        }
+    }
+
+    // Display the uploaded image
+    function displayImage(event) {
+        const file = event.target.files[0];
+        const reader = new FileReader();
+
+        reader.onload = function(event) {
+            uploadedImage.src = event.target.result;
+            uploadedImage.style.display = "block";
+        };
+
+        if (file) {
+            reader.readAsDataURL(file);
+        }
+    }
+
+    // Run prediction on the uploaded image
+    async function predictFromImage() {
+        const imageUpload = document.getElementById('imageUpload');
+        const file = imageUpload.files[0];
+        const reader = new FileReader();
+
+        reader.onload = async function(event) {
+            const img = new Image();
+            img.src = event.target.result;
+
+            img.onload = async function() {
+                const prediction = await model.predict(img);
+
+                // Find the class with the highest probability
+                let maxProb = 0;
+                let maxClass = '';
+                for (let i = 0; i < maxPredictions; i++) {
+                    if (prediction[i].probability > maxProb) {
+                        maxProb = prediction[i].probability;
+                        maxClass = prediction[i].className;
+                    }
+                }
+
+                // Display only the class with the highest probability
+                labelContainer.innerHTML = `<div>Predicted Disease: ${maxClass}</div>`;
+
+                // Display message based on prediction result
+                if (maxClass.toLowerCase() === 'normal') {
+                    labelContainer.innerHTML += '<div style="color: green;">You are healthy!</div>';
+                } else {
+                    labelContainer.innerHTML += '<div style="color: red;">You should consult a doctor and take care.</div>';
+                }
+            };
+        };
+
+        if (file) {
+            reader.readAsDataURL(file);
+        }
+    }
+
+    // Initialize the model when the page loads
+    init();
+</script>
+</body>
+</html>
