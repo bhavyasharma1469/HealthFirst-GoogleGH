@@ -24,16 +24,16 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 ## Screenshots
 #### Need for HealthFirst based on survey undertaken
 <div style="display:flex;justify-content:center; margin-bottom :5px">
-    <div style="width:400px;margin:5px; border: 1px solid black;">
+    <div style="width:200px;margin:5px; border: 1px solid black;">
         <img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/321ce489-ac82-460a-8ce0-1764f158c834" alt="1" style="width:100%;"/>
     </div>
-    <div style="width:400px;margin:5px; border: 1px solid black;">
+    <div style="width:200px;margin:5px; border: 1px solid black;">
         <img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/88965be7-01b8-44b5-8ffd-46dd818b783f" alt="2" style="width:100%;"/>
     </div>
-    <div style="width:400px;margin:5px; border: 1px solid black;">
+    <div style="width:200px;margin:5px; border: 1px solid black;">
         <img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/9683d3dd-d18e-414f-b4ce-7cafa228b5ae" alt="3" style="width:100%;"/>
     </div>
-    <div style="width:400px;margin:5px; border: 1px solid black;">
+    <div style="width:200px;margin:5px; border: 1px solid black;">
         <img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/116b3e50-cc8c-4bc6-8373-a17aead804db" alt="4" style="width:100%;"/>
     </div>
 </div>
