@@ -89,43 +89,36 @@ Functionalities
 
 ### Getting Started
 
-Upon accessing the HealthFirst website and entering the web dashboard, you'll find clear links facilitating navigation to different functionalities :
+Upon accessing the HealthFirst website and entering the web dashboard, you'll find clear links facilitating navigation to different functionalities:
 1. Interacting with chatbots for personalized assistance.
 2. Accessing real-time disease predictions based on medical images.
 3. Conveniently scheduling appointments with healthcare professionals.
 4. Providing feedback by rating past appointments.
 
-### Uploading Medical Images
+### Uploading Medical Images and Receiving Instant Predictions
 
-Once you've logged into the HealthFirst app, you can easily upload medical images for analysis. Here's how:
+Once you've logged into the HealthFirst app, you can easily upload medical images for analysis.
 
-1. **Navigate to the "Upload" section** within the app.
-2. **Select the type of medical image** you want to upload (e.g., chest X-ray, knee X-ray, brain X-ray, ECG).
-3. **Follow the on-screen instructions** to capture or upload the medical image.
-4. **Confirm the upload**, and the app will begin analyzing the image.
+1. **Navigate to the the specific section** for example chest disease detection.
+2. **Select the medical image** you want to upload (e.g., chest X-ray, knee X-ray, brain X-ray, ECG) from your system.
+3. **Click on preidct** to capture and see the results.
+4. **The predicted result** will be displayed.  
 
-### Receiving Instant Predictions
-
-HealthFirst provides instant predictions about your health based on the uploaded medical images. Here's what you can expect:
-
-1. After the analysis is complete, the app will display the prediction results on your screen.
-2. You'll receive insights into any potential health issues or conditions detected in the image.
-3. Detailed explanations and recommendations will be provided to help you understand the predictions better.
 
 ### Booking Appointments
 
 Need to schedule a doctor's appointment? HealthFirst makes it easy:
 
-1. **Navigate to the "Appointments" section** in the app.
-2. **Choose your preferred date, time, and healthcare professional**.
+1. **Navigate to the "Book Appointments" section** in the website.
+2. **Choose your preferred date, time, and type of healthcare treatment** from the options available.
 3. **Confirm your booking**, and you're all set!
-4. You'll receive a confirmation message with all the details of your appointment.
+4. **A confirmation message** with all the details of your appointment will be displayed.
 
 ### Interacting with Chatbots
 
 BayMac and Sally are here to assist you with any health inquiries or concerns:
 
-1. **Access the chatbot feature** within the app's interface.
+1. **Access the chatbot feature** within the wensites's interface by navigating to their respective pages.
 2. **Type your question or concern**, and the chatbot will provide instant responses.
 3. Chat with BayMac for general health inquiries or Sally for guidance on sexual hygiene matters.
 4. Enjoy personalized support and guidance from our friendly chatbots.
