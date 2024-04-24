@@ -22,7 +22,8 @@ Introducing HealthFirst, a revolutionary approach to healthcare that combines cu
 
 ## Screenshots
 [![Need for the App](/path/to/dashboard-screenshot.png)](https://example.com)
-[![HealthFirst Dashboard](/path/to/dashboard-screenshot.png)](https://example.com)
+![HealthFirst Dashboard](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/34775d11-3519-474c-8945-33d5a185e453)
+
 [![BayMac Chatbot](/path/to/baymac-screenshot.png)](https://example.com)
 [![Sally Chatbot](/path/to/sally-screenshot.png)](https://example.com)
 [![Chest Disease Prediction](/path/to/sally-screenshot.png)](https://example.com)
