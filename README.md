@@ -41,60 +41,60 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 #### Book an Appointment
 ![book1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/4ed75eec-340d-4e38-aba4-3f0e162853a8)
 
-Explore the Features
+#### Explore the Features
 ![explore](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/b36bfa31-b271-4f65-b630-34540cb78432)
 
-Our Services
+#### Our Services
 ![services](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/596bbf83-1420-4ebe-b31d-52f129988a90)
 
 
-Meet Our Doctors
+#### Meet Our Doctors
 ![meetdocs](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/5885478d-b1af-4b59-9e0a-55461dd0c617)
 
-About Us
+#### About Us
 ![about us](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/c8bfd83e-d55e-4a14-b3f4-5efea8a822a7)
 
-Footer
+#### Footer
 ![footer](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/04cc1bee-2b72-4be3-ad21-85668dde48aa)
 
 
-Functionalities
-1. Booking an Appointment
+#### Functionalities
+#### 1. Booking an Appointment
    ![book2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/be5e57d9-f0ad-45fb-96ff-b4338b3b50d6)
    
 ![book3](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/a66b5579-2cda-43a9-84ad-ca238f4def4d)
 
-3. Rating a previous appointment
+#### 2. Rating a previous appointment
    ![rate1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/ee84ac99-fa47-465e-81bf-58c79c6f6883)
    ![rate2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/e9744896-f5e9-45cf-94c6-e185e260d73f)
 
 
-5. Brain Disease Prediction
+#### 3. Brain Disease Prediction
    ![brain1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d99e8203-9639-4c82-a098-21696c5ef983)
    ![brain2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/69609648-5297-4917-886f-bad0a3f6a7cf)
 
 
-7. Chest Disease Prediction
+#### 4. Chest Disease Prediction
    ![chest1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/8d0af1cb-94bc-4a15-8c31-921cc9bf984f)
 ![chest2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/81229aa8-37cb-41d6-94a8-a35fb7462d0e)
 
-9. Heart Disease Prediction
+#### 5. Heart Disease Prediction
     ![heart1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/22af8f26-c1e2-48fe-9151-92d60803d1fa)
    ![heart2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/021234ab-07af-4492-b849-a23e85fb46ee)
 
 
-11. Knee Disease Prediction
+#### 6. Knee Disease Prediction
     ![image](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/94129f3b-6b82-4f51-a43f-7f2f04d69f4b)
 
     ![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d06dec79-d0c9-4f4a-9a3c-d0e35dbecf27)
 
-13. BayMac Chatbot
+#### 7. BayMac Chatbot
     ![baymac1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/54290f08-6589-4e8f-90df-579b63106c6e)
 
     ![baymac2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/f793531a-9439-42be-9bef-be58a901d164)
 
 
-15. Sally Chatbot
+#### 8. Sally Chatbot
 ![sally](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/47f2ee66-7b52-40d2-9c62-eda993a2cc20)
 
 ## Usage
