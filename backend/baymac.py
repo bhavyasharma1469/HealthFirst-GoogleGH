@@ -5,7 +5,7 @@ import google.generativeai as genai
 app = Flask(__name__)
 
 # Configure the generative AI
-genai.configure(api_key="AIzaSyBKVp41igxgitsy0mX4Ygq6tRBYe0RbnDc")
+genai.configure(api_key="")
 
 # Set up the model
 generation_config = {
