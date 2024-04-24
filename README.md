@@ -72,6 +72,8 @@ Functionalities
 
 
 11. Knee Disease Prediction
+    ![image](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/94129f3b-6b82-4f51-a43f-7f2f04d69f4b)
+
     ![knee](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d06dec79-d0c9-4f4a-9a3c-d0e35dbecf27)
 
 13. BayMac Chatbot
