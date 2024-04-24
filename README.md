@@ -81,7 +81,8 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 ![chest2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/81229aa8-37cb-41d6-94a8-a35fb7462d0e)
 
 #### 5. Heart Disease Prediction
-    ![heart1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/80f3cfd9-44fe-4144-ae55-23809c844c26)
+    <img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/80f3cfd9-44fe-4144-ae55-23809c844c26" alt="heart1"/>
+
 
    ![heart2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/021234ab-07af-4492-b849-a23e85fb46ee)
 
