@@ -21,7 +21,8 @@ Introducing HealthFirst, a revolutionary approach to healthcare that combines cu
 - Backed by real-world data
 
 ## Screenshots
-[![Need for the App](/path/to/dashboard-screenshot.png)](https://example.com)
+Need for HealthFirst based on survey undertaken
+
 HealthFirst Dashboard
 ![HealthFirst Dashboard](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/34775d11-3519-474c-8945-33d5a185e453)
 
@@ -47,9 +48,15 @@ Footer
 
 Functionalities
 1. Booking an Appointment
+   ![book2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/be5e57d9-f0ad-45fb-96ff-b4338b3b50d6)
    
+![book3](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/a66b5579-2cda-43a9-84ad-ca238f4def4d)
+
 3. Rating a previous appointment
-   
+   ![rate1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/ee84ac99-fa47-465e-81bf-58c79c6f6883)
+   ![rate2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/e9744896-f5e9-45cf-94c6-e185e260d73f)
+
+
 5. Brain Disease Prediction
    ![brain1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/d99e8203-9639-4c82-a098-21696c5ef983)
    ![brain2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/69609648-5297-4917-886f-bad0a3f6a7cf)
