@@ -23,7 +23,7 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 
 ## Screenshots
 Need for HealthFirst based on survey undertaken
-![1](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/321ce489-ac82-460a-8ce0-1764f158c834)
+<img src="https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/321ce489-ac82-460a-8ce0-1764f158c834" alt="1" width="200"/>
 ![2](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/88965be7-01b8-44b5-8ffd-46dd818b783f)
 ![3](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/9683d3dd-d18e-414f-b4ce-7cafa228b5ae)
 ![4](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/116b3e50-cc8c-4bc6-8373-a17aead804db)
