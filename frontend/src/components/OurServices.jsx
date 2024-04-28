@@ -4,8 +4,7 @@ import serviceChatbot from './images/serviceChatbot.jpeg';
 import rating from './images/rating.jpeg';
 import diseasePredict from './images/diseasePredict.jpeg';
 import appointment from './images/appointment.jpeg';
-// import img1 from './images/';
-// import img1 from './images/';
+
 
 const OurServicesSection = () => {
   return (

@@ -12,9 +12,7 @@ const FeatureCard = ({ icon, text, link, desc }) => {
         <img src={icon} alt="Feature Icon" style={{ maxWidth: '100%', height: 'auto' }}/>
         <p id= 'name'>{text}</p>
         <p>{desc}</p>
-        {/* <Link to="/knee"><button>Book Now</button></Link> */}
         <Link to={link}>Explore</Link>
-        {/* <iframe src={link}> Explore </iframe> */}
       </div>
     );
   };

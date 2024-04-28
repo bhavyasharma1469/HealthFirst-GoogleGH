@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Description from './Description'
 import Book2 from './Book2'
 import Explore from './Explore'

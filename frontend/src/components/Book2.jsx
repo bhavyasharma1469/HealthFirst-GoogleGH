@@ -1,6 +1,6 @@
 import { Link, useNavigate } from 'react-router-dom';
 import bookAppointment from './images/bookAppointment.jpeg';
-import Appointment from './Appointment'
+// import Appointment from './Appointment'
 
 const Book2 = () => {
   const navigate = useNavigate();

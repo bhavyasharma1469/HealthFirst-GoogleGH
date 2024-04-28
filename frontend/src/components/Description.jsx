@@ -1,9 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import docnew from './images/docnew.png';
-import blankDoctor2 from './images/blankDoctors2.png';
-import Appointment from './Appointment'
-import KneeDiseasePrediction from './predictions/Knee'
+// import Appointment from './Appointment'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; // Import Route
 
 const Description = () => {
@@ -14,7 +12,6 @@ const Description = () => {
           <h2>HealthFirst : Your one-stop healthcare solution!</h2>
           <p>At HealthFirst, we're dedicated to providing comprehensive healthcare solutions. From uploading your medical images for real-time disease predictions to having a chat with our friendly chatbots for general or sexual health queries or to book an appointment with a doctor, we do it all.</p>
           <Link to="/appointments"><button>Book Now</button></Link>
-          {/* <a href='/bhavya.html'>go to </a> */}
         </div>
         <div style={{ display: 'flex', gap: '20px', flexWrap: 'wrap'}}>
           <img src={docnew} alt="Doctor Image" style={{maxwidth : '100%', width : '680px'}} />

@@ -1,4 +1,3 @@
-// AppointmentCard.js
 
 import React from 'react';
 

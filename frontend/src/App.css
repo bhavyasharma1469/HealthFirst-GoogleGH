@@ -4,8 +4,7 @@
 html {
   scroll-behavior: smooth;
 }
-/* Resetting margin and padding for the body */
-/* Resetting margin and padding for the body */
+
 body, .app-container {
   font-family: 'Roboto', sans-serif;
   margin: 0;

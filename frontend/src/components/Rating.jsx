@@ -15,7 +15,7 @@ const RatingsPage = () => {
       time: '10:00 AM',
       rating: 0, // Initial rating
     },
-    // Add more ratings as needed
+
     {
       id: 2,
       type: 'Dental Check-up',
@@ -37,8 +37,7 @@ const RatingsPage = () => {
   };
 
   const handleRatingSubmit = () => {
-    // You can add your logic for submitting ratings here
-    // For now, let's just show a pop-up notification
+
     setIsModalOpen(true);
   };
 
