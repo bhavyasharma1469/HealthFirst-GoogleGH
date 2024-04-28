@@ -1,6 +1,7 @@
 /* AppointmentsPage.css */
 
 .container {
+  margin-top: 5%;
     width: 100%;
     padding: 20px;
   }
@@ -15,13 +16,14 @@
   }
   
   .ratings-container {
+    margin-top: 4%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between; /* Distribute items evenly */
   }
   
   .rating-card {
-    width: calc(35% - 10px); /* Adjust card width to fit two cards in a row */
+    width: calc(40% - 10px); /* Adjust card width to fit two cards in a row */
     height: calc(25% - 10px); /* Adjust card height */
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -84,7 +86,7 @@
 
   .page-heading {
     padding: 0;
-    padding-left: 20%;
+    padding-left: 10%;
     margin: 0;
     font-size: 10px;
   }

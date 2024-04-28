@@ -52,7 +52,7 @@ const AppointmentsPage = () => {
       <div className="card">
       <div className="content">
         <h2>Book Your Appointments</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus nemo, fuga eos eaque quibusdam quos enim culpa praesentium quam accusantium voluptatum est cum, id amet, doloremque nesciunt a quisquam pariatur!</p>
+        <p>Ready to take control of your health and well-being? Our team of experienced medical professionals is here to provide you with personalized care and support every step of the way. Don't wait any longer – book your appointment now and let us help you live your healthiest life.</p>
       </div>
       <div className="image">
         <img src={bookappoint} alt="Card" />

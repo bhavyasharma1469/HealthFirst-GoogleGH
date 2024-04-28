@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer style={{ backgroundColor: '#182c44', color: '#fff', padding: '20px' }}>
+    <footer id ='footer' style={{ backgroundColor: '#182c44', color: '#fff', padding: '20px' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
         <div>
           <h4>HealthFirst</h4>

@@ -25,15 +25,6 @@ const RatingsPage = () => {
       time: '11:00 AM',
       rating: 0,
     },
-    {
-      id: 3,
-      type: 'Eye Exam',
-      doctor: 'Dr. Brown',
-      treatment: 'Vision Testing',
-      date: '2024-04-26',
-      time: '1:00 PM',
-      rating: 0,
-    },
   ]);
 
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -58,20 +49,23 @@ const RatingsPage = () => {
   return (
     <div className="container">
       <Navbar></Navbar>
+      
         <div className="card">
           <div className="page-heading">
           <h1>Rate Your Previous Appointments</h1>
           </div>
         </div>
+        
       <div className="ratings-container">
         {ratings.map(rating => (
           <RatingCard key={rating.id} rating={rating} onRatingChange={handleRatingChange} />
         ))}
       </div>
-      {/* Book button */}
+
       <div className="button-container">
-        <button onClick={handleRatingSubmit} className="book-button">Book Appointment</button>
+        <button onClick={handleRatingSubmit} className="book-button">Rate Appointment</button>
       </div>
+      
 
       {/* Modal for confirmation */}
       {isModalOpen && (

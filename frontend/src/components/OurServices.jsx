@@ -10,7 +10,7 @@ import appointment from './images/appointment.jpeg';
 const OurServicesSection = () => {
   return (
     <section className="component" id='services' style={{ backgroundColor: 'white', padding: '20px', paddingTop :'0px'}}>
-      <div style={{marginTop : '0px'}}>
+      <div style={{marginTop : '2%'}}>
  
       <h2>Our Services</h2>
       <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '40px' }}>
