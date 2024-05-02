@@ -146,7 +146,7 @@ Need to schedule a doctor's appointment? HealthFirst makes it easy:
 
 BayMac and Sally are here to assist you with any health inquiries or concerns:
 
-1. **Access the chatbot feature** within the wensites's interface by navigating to their respective pages.
+1. **Access the chatbot feature** within the websites's interface by navigating to their respective pages.
 2. **Type your question or concern**, and the chatbot will provide instant responses.
 3. Chat with BayMac for general health inquiries or Sally for guidance on sexual hygiene matters.
 4. Enjoy personalized support and guidance from our friendly chatbots.
