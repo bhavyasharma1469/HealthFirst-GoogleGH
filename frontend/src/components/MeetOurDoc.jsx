@@ -11,10 +11,10 @@ const MeetOurDoc = () => {
       <h2>Meet Our Doctors</h2>
       <p>Meet the compassionate doctors who make HealthFirst possible. Our team is dedicated to providing high-quality care and personalized attention to each patient, ensuring you feel valued and supported throughout your healthcare journey.</p>
       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-        <DoctorCard name="Dr. John Doe" specialty="Cardiologist" icon = {doc1}/>
-        <DoctorCard name="Dr. Jane Smith" specialty="Pulmonologist" icon = {doc2}/>
-        <DoctorCard name="Dr. David Johnson" specialty="Orthopedic Surgeon" icon = {doc3}/>
-        <DoctorCard name="Dr. Sarah Williams" specialty="Neurologist" icon = {doc4}/>
+        <DoctorCard name="Dr. Parul Sharma" specialty="Cardiologist" icon = {doc1}/>
+        <DoctorCard name="Dr. Ashima" specialty="Pulmonologist" icon = {doc2}/>
+        <DoctorCard name="Dr. Rajesh Kumar" specialty="Orthopedic Surgeon" icon = {doc3}/>
+        <DoctorCard name="Dr. Rajeev Sharma" specialty="Neurologist" icon = {doc4}/>
       </div>
       </div>
       

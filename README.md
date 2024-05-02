@@ -51,13 +51,18 @@ Introducing a new approach at HealthFirst, a Medical Assistant, where we blend a
 
 
 #### Meet Our Doctors
-![meetdocs](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/5885478d-b1af-4b59-9e0a-55461dd0c617)
+![image](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/ee75803d-d678-424f-8677-b0308fca0105)
 
 #### About Us
 ![about us](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/c8bfd83e-d55e-4a14-b3f4-5efea8a822a7)
 
+#### What the Patients Say about the platform
+![image](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/7802b15a-38d8-40b4-9967-7b1f926c7cd0)
+
+
 #### Footer
-![footer](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/04cc1bee-2b72-4be3-ad21-85668dde48aa)
+![image](https://github.com/bhavyasharma1469/HealthFirst-GoogleGH/assets/96409654/db181e12-0679-4732-97e5-ca2fff6e4822)
+
 
 
 #### Functionalities
